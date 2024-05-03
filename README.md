@@ -4,7 +4,7 @@
 
 GL4SS3S is the Arduino code part of the global GL4SS3S project.
 
-The project is an electronic glasses device that allow to show data trough a relection of a screen on mirror and plastic based on the original [Alain Project Data Glasses](https://alainsprojects.com/2016/10/07/featured-on-hackaday-com/)
+The project is an electronic glasses device that allow to show data trough a reflection of a screen on mirror and plastic based on the original [Alain Project Data Glasses](https://alainsprojects.com/2016/10/07/featured-on-hackaday-com/)
 
 On Top of that I added some button ( and lot of code ) on the device to allow the user to navigate trough a menu and select wich data he want to see
 
