@@ -1,6 +1,6 @@
 ``Reupload project from 2021 : This project was recovered so don't take commits into accounts``
 
-# GL4SS3S Core 👓
+ <h1 align="center">👓 GL4SS3S CORE 👓</h1>
 
 GL4SS3S is the Arduino code part of the global GL4SS3S project.
 
